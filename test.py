@@ -1,5 +1,4 @@
-age=int(intput(Enter the age: ))
-if(age<18):
-    print("child")
-else:
-    print("youth")
+n=10
+for i in range(0,n+1):
+    i*=1
+    print('*'*i)
